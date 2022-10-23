@@ -75,7 +75,7 @@
                         <select name="agama" id="agama">
                             <option value="">Pilih Agama</option>
                             <option value="Islam">Islam</option>
-                            <option value="Kristen Khatolis">Kristen Katholik</option>
+                            <option value="Kristen Khatolik">Kristen Katholik</option>
                             <option value="Kristen Protestan">Kristen Protestan</option>
                             <option value="Budha">Budha</option>
                             <option value="Hindu">Hindu</option>
