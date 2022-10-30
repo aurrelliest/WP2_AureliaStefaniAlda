@@ -1,25 +1,24 @@
 <section>
-    <h1><?php echo $judul ?></h1>
-    51
-    <h4>Nama</h4>
+    <h1><?php echo $judul ?></h1> 
+     <h4>Nama</h4>
     <ul type="disc">
-        <li>Nama Depan : Aurelia</li>
-        <li>Nama Tengah : Stefani</li>
-        <li>Nama Belakang : Alda</li>
+        <li>Nama Depan : Eni </li>
+        <li>Nama Belakang : restari</li>
     </ul>
     <br>
     <h4>Alamat</h4>
     <ul type="none">
-        <li> Jalan Pariit Madura Blok B-10</li>
+        <li> Tanjung Raya 2</li>
     </ul>
-
+    
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Landau</li>
+        <li>mungguk keladan</li>
     </ul>
-    <h4>Hobi</h4>
+
+    <h4>Olah Raga Favorit</h4>
     <ul type="square">
-        <li>Nonton Drama</li>
-        <li>Tidur</li>
+        <li>tenis meja</li>
+        <li>Catur</li>
     </ul>
-</section>
+</section> 
